@@ -1,0 +1,10 @@
+{
+  "name": "gymowner-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium static gym landing page",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site: no build step required'"
+  }
+}
